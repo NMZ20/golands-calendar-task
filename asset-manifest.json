@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/golands-calendar-task/static/css/main.3af56210.css",
+    "main.js": "/golands-calendar-task/static/js/main.82037d63.js",
+    "static/js/787.fd6895eb.chunk.js": "/golands-calendar-task/static/js/787.fd6895eb.chunk.js",
+    "index.html": "/golands-calendar-task/index.html",
+    "main.3af56210.css.map": "/golands-calendar-task/static/css/main.3af56210.css.map",
+    "main.82037d63.js.map": "/golands-calendar-task/static/js/main.82037d63.js.map",
+    "787.fd6895eb.chunk.js.map": "/golands-calendar-task/static/js/787.fd6895eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3af56210.css",
+    "static/js/main.82037d63.js"
+  ]
+}
